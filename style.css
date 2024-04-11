@@ -17,6 +17,9 @@ body {
     width: 100%;
     height: 120px;
    }
+   .slogan {
+    font-family: cursive;
+   }
   nav ul {
     list-style-type: none; /*supprime les listes à puces*/ 
     margin: 0; padding: 0;
